@@ -1,0 +1,37 @@
+{
+  "id": "Program",
+  "body": [
+    {
+      "left": {
+        "left": {
+          "id": "NumberLiteral",
+          "value": 20
+        },
+        "right": {
+          "id": "NumberLiteral",
+          "value": 30
+        },
+        "operator": "+"
+      },
+      "right": {
+        "left": {
+          "left": {
+            "id": "NumberLiteral",
+            "value": 49
+          },
+          "right": {
+            "id": "NumberLiteral",
+            "value": 25
+          },
+          "operator": "*"
+        },
+        "right": {
+          "id": "NumberLiteral",
+          "value": 10
+        },
+        "operator": "+"
+      },
+      "operator": "-"
+    }
+  ]
+}
